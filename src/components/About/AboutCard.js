@@ -9,12 +9,11 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">HARIPRASAD </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
+            from <span className="purple"> Kerala, India.</span>
             <br />
-            I am currently employed as a software developer at Juspay.
+            I am currently employed as a software developer at Squad Technologies Pvt. Ltd.
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            Currently I am presuming my Masters of Computer Application at Bharathiyar university. I graduated in Bachelor of SCience in Information of Technology at Calicut university.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -24,7 +23,7 @@ function AboutCard() {
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Having fun with Friends
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
@@ -34,7 +33,7 @@ function AboutCard() {
           <p style={{ color: "rgb(155 126 172)" }}>
             "Strive to build things that make a difference!"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Hariprasad</footer>
         </blockquote>
       </Card.Body>
     </Card>
