@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/projectportfolio/static/css/main.605c62ea.css",
-    "main.js": "/projectportfolio/static/js/main.7e27a516.js",
-    "static/js/415.4d6acbeb.chunk.js": "/projectportfolio/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/projectportfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Hariprasad-MERN-developer.pdf": "/projectportfolio/static/media/Hariprasad-MERN-developer.83a8695871f3110424de.pdf",
-    "static/media/home-main.svg": "/projectportfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/projectportfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/ha-logo-white.png": "/projectportfolio/static/media/ha-logo-white.cb0df7ee1a5c5610ae9b.png",
-    "static/media/home-bg.jpg": "/projectportfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/projectportfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/moonstride-logo.svg": "/projectportfolio/static/media/moonstride-logo.658d6292e2ce9e435b2fbf297d4e486d.svg",
-    "static/media/pre.svg": "/projectportfolio/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/projectportfolio/index.html",
-    "main.605c62ea.css.map": "/projectportfolio/static/css/main.605c62ea.css.map",
-    "main.7e27a516.js.map": "/projectportfolio/static/js/main.7e27a516.js.map",
-    "415.4d6acbeb.chunk.js.map": "/projectportfolio/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/projectportfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.107b82be.css",
+    "main.js": "/portfolio/static/js/main.fd87ea09.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Hariprasad-MERN-developer.pdf": "/portfolio/static/media/Hariprasad-MERN-developer.83a8695871f3110424de.pdf",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/ha-logo-white.png": "/portfolio/static/media/ha-logo-white.cb0df7ee1a5c5610ae9b.png",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/moonstride-logo.svg": "/portfolio/static/media/moonstride-logo.658d6292e2ce9e435b2fbf297d4e486d.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio/index.html",
+    "main.107b82be.css.map": "/portfolio/static/css/main.107b82be.css.map",
+    "main.fd87ea09.js.map": "/portfolio/static/js/main.fd87ea09.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.605c62ea.css",
-    "static/js/main.7e27a516.js"
+    "static/css/main.107b82be.css",
+    "static/js/main.fd87ea09.js"
   ]
 }
