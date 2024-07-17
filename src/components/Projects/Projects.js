@@ -22,17 +22,7 @@ function Projects() {
               imgPath={moonstride}
               isBlog={false}
               title="Tourengine"
-              description="• Developed and maintained a tour booking website using React and Next.js, enhancing the user 
-                            interface and user experience.  
-                            • Implemented server-side logic and backend functionality using Node.js, ensuring seamless integration 
-                            with the frontend.  
-                            • Collaborated with a team to integrate the tour booking system into a Customer Relationship 
-                            Management (CRM) platform. 
-                            • Participated in all stages of the development lifecycle, from requirement analysis and design to 
-                            implementation, testing, and deployment.  
-                            • Utilized version control systems like Git for code management and collaboration. 
-                            • Actively participated in team meetings and code reviews to ensure high-quality code and adherence to 
-                            best practices."
+              description="I developed and maintained an advanced tour booking website using React and Next.js, with a strong emphasis on enhancing the user interface and overall user experience. This project also involved implementing robust server-side logic and backend functionality using Node.js, ensuring seamless integration with the frontend, particularly through integration with Moonstride."
               demoLink="https://www.moonstride.com/"
             />
           </Col>
@@ -42,7 +32,7 @@ function Projects() {
               imgPath={moonstride}
               isBlog={false}
               title="AI Buddy"
-              description="AI Buddy is a platform created using React and Next.js, which is implemented in moonstride. Using AI Buddy we can chart our trip plan. It generate trip plans using Chat GPT api's. With in the chated plan there will be links for redirect to our other apps for tour package booking, flight booking, hotel booking..."
+              description="AI Buddy is an innovative platform I developed using React and Next.js, currently implemented within the Moonstride ecosystem. This dynamic tool leverages the power of Chat GPT APIs to generate personalized trip plans, making travel planning intuitive and seamless."
               demoLink="https://www.moonstride.com/"
             />
           </Col>
@@ -51,7 +41,7 @@ function Projects() {
               imgPath={moonstride}
               isBlog={false}
               title="Zoho"
-              description="Zoho is one of the accounting software which is connected with moonstride, for managing the accounts of moonstride users. We are maping the invoice and payment details with moonstride and Zoho for managing accounts easly. We have done that using React and Next.js"
+              description="As part of enhancing the accounting capabilities within Moonstride, I implemented an integration with Zoho Accounting Software. This integration streamlines the management of user accounts by synchronizing invoice and payment details between Moonstride and Zoho, ensuring accurate and efficient financial tracking."
               demoLink="https://www.moonstride.com/"
             />
           </Col>
@@ -61,7 +51,7 @@ function Projects() {
               imgPath={moonstride}
               isBlog={false}
               title="Xero"
-              description="Xero is one of the accounting software which is connected with moonstride, for managing the accounts of moonstride users. We are maping the invoice and payment details with moonstride and Xero for managing accounts easly. We have done that using Node.js"
+              description="I developed a seamless integration between Moonstride and Xero Accounting Software to enhance financial management for Moonstride users. This integration synchronizes invoice and payment details between the two platforms, ensuring accurate and efficient account management."
               demoLink="https://www.moonstride.com/"
             />
           </Col>
@@ -71,7 +61,7 @@ function Projects() {
               imgPath={moonstride}
               isBlog={false}
               title="Quick books"
-              description="Quick book is one of the accounting software which is connected with moonstride, for managing the accounts of moonstride users. We are maping the invoice and payment details with moonstride and Quick book for managing accounts easly. We have done that using React and Next.js"
+              description="To streamline financial management for Moonstride users, I developed an integration with QuickBooks Accounting Software. This integration facilitates the synchronization of invoice and payment details between Moonstride and QuickBooks, ensuring efficient and accurate account management."
               demoLink="https://www.moonstride.com/"
             />
           </Col>
@@ -81,7 +71,7 @@ function Projects() {
               imgPath={integral}
               isBlog={false}
               title="Integral"
-              description="I have done web scraping from Integral using selenium in python for collecting the and analisying the data of there data analisis."
+              description="I developed a web scraping solution using Selenium in Python to collect and analyze data from Integral. This project involved automating the data extraction process and performing detailed analysis on the collected data to derive valuable insights."
               demoLink="https://www.integralmemory.com/"
             />
           </Col>
